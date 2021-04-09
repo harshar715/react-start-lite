@@ -51,7 +51,7 @@ class Header extends Component {
                     </div>
                 </div>
 
-                <div id="home" className="header-hero bg_cover" style={{ backgroundImage: "url(`assets/images/header-bg.jpg`)" }}>
+                <div id="home" className="header-hero bg_cover" style={{ backgroundImage: "url(assets/images/header-bg.jpg)" }}>
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-xl-8 col-lg-10">
